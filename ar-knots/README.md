@@ -1,6 +1,6 @@
 # AR Knots
 
-This repository contains code written for my final individual project in *ARGD 4080, Mathematics Outreach Design Lab*, in which I've found parameterizations for 6 different knots and visualized them in a traversable augmented reality space. To watch this app in action, take a look at the video [here](https://vimeo.com/267052680).
+This repository contains code written for my final individual project in **ARGD 4080, Mathematics Outreach Design Lab**, in which I've found parameterizations for 6 different knots and visualized them in a traversable augmented reality space. To watch this app in action, take a look at the video [here](https://vimeo.com/267052680).
 
 Below you'll find descriptions of the 6 knots I chose to display, as well as pictures. 
 
@@ -22,11 +22,11 @@ A figure 8 knot with 4 crossings.
 
 The connected sum of two trefoils (otherwise known as a granny knot) with 6 crossings.
 
-===
+---
 
 The last 3 knots all exist on the surface of a torus, differing by how many times they cross the meridian and longitudinal axis.
 
-===
+---
 
 ## Knot 4
 
@@ -46,6 +46,6 @@ A 4-7 torus (crossing meridian 4 times, longitudinal axis 7).
 
 A 6-11 torus (crossing meridian 6 times, longitudinal axis 11).
 
-===
+---
 
-You can find more info on knots (and more parameterizations as well) at [paulbourke.net][http://paulbourke.net/geometry/knots/].
+You can find more info on knots (and more parameterizations as well) at [paulbourke.net](http://paulbourke.net/geometry/knots/).
